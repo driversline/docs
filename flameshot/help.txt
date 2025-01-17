@@ -1,0 +1,10 @@
+Options:
+  -h, --help     Displays this help
+  -v, --version  Displays version information
+
+Arguments:
+  gui            Start a manual capture in GUI mode.
+  screen         Capture a single screen.
+  full           Capture the entire desktop.
+  launcher       Open the capture launcher.
+  config         Configure flameshot.
