@@ -1,0 +1,19 @@
+antialiasingPinZoom=true
+
+contrastOpacity=50
+
+drawColor=#000000
+
+saveAsFileExtension=.png / .jpeg / .svg
+
+savePathFixed=true
+
+showHelp=false
+
+useJpgForClipboard=false
+
+disabledTrayIcon=true   
+                                                                                                                                                                      
+showStartupLaunchMessage=false
+
+uiColor=#000000
