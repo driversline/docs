@@ -5,12 +5,8 @@ flameshot full                         # Сделать снимок всего 
 flameshot full --path ~/myStuff/captures --delay 5000  # Сделать снимок всего экрана с пользовательским путем и задержкой
 flameshot full --clipboard --path ~/myStuff/captures  # Сделать снимок всего экрана, скопировать в буфер обмена и указать путь
 flameshot config                       # Открыть меню конфигурации
-flameshot config --showhelp true       # Показать начальное сообщение помощи в режиме захвата
 flameshot config --check                # Проверить ошибки в конфигурационном файле
 flameshot config --help                 # Получить дополнительную информацию о доступных опциях
-flameshot full --raw                    # Отправить скриншот в стандартный вывод
-flameshot full --upload                 # Загружает скриншот
-flameshot full --pin                    # Закрепляет скриншот
 flameshot full --print-geometry         # Выводит позицию и размеры скриншота в стандартный вывод
 flameshot gui --pin --clipboard --path "~/Pictures" --print-geometry  # Пример использования нескольких финальных действий
 
