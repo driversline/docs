@@ -4,7 +4,7 @@
 
 > `WINEPREFIX=~/.wine64 WINEARCH=win64 winecfg`
 
-# Check:
+# Check libs:
 
 > `WINEPREFIX=~/.wine32 winetricks list-installed`
 
