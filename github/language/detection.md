@@ -2,9 +2,8 @@
 
 > `.gitattributes`
 
-# paste
+# example:
 
 > `*.md linguist-detectable=true`
 
-> `README.md linguist-detectable=false`
-
+> `*.sh linguist-detectable=false`
