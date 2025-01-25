@@ -1,4 +1,4 @@
-# Libs:
+# Libs GUI:
 
 > `winetricks`
 
@@ -8,7 +8,7 @@
 
 > `WINEPREFIX=~/.wine64 winetricks`
 
-# Wine:
+# Wine GUI:
 
 > `winecfg`
 
