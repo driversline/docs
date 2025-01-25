@@ -1,8 +1,8 @@
-# 1 - create:
+# create:
 
 > `.gitattributes`
 
-# 2 - paste
+# paste
 
 > `*.md linguist-detectable=true`
 
