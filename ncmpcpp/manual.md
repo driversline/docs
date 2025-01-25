@@ -6,4 +6,4 @@
 
 # Example:
 
-> [bspwm](https://github.com/driversline/bspwm/dotfiles/player](https://github.com/driversline/bspwm/tree/main/dotfiles/player)
+> [bspwm](https://github.com/driversline/bspwm/tree/main/dotfiles/player)
