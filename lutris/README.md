@@ -1,4 +1,4 @@
-# Install
+# Install: 
 
 > `WINEPREFIX=~/.wine64 WINEARCH=win32 winecfg`
 
