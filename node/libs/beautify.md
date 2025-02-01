@@ -1,5 +1,7 @@
-# sudo npm install -g js-deobfuscator
+1. `sudo npm install -g js-deobfuscator`
 
-`js-beautify !.js -o !.js`
+2. `js-beautify !.js -o !.js`
 
-`js-beautify !.css -o !.css`
+   `OR`
+
+   `js-beautify !.css -o !.css`
