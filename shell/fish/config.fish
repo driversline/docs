@@ -1,3 +1,7 @@
 if status is-interactive
-    YOUR_COMMAND
+    Your_Settings
+end
+
+function fish_prompt
+    Invile_Line
 end
