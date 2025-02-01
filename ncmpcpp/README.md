@@ -1,4 +1,4 @@
-# Path:
+`Path`
 
 > `$HOME/.config/mpd`
 
@@ -6,7 +6,7 @@
 
 > `$HOME/Music (Your)`
 
-# Configs:
+`Configs`
 
 > `mpd.conf` and `database`
 
@@ -14,7 +14,7 @@
 
 > `*.mp3`
 
-# PWD:
+`PWD`
 
 > `$HOME/.config/mpd/mpd.conf | $HOME/.config/mpd/database`
 
