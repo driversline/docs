@@ -1,10 +1,10 @@
-# Install: 
+`Install`
 
 > `WINEPREFIX=~/.wine32 WINEARCH=win32 winecfg`
 
 > `WINEPREFIX=~/.wine64 WINEARCH=win64 winecfg`
 
-# Check libs:
+`Check libs`
 
 > `WINEPREFIX=~/.wine32 winetricks list-installed`
 
