@@ -1,9 +1,9 @@
-# Start:
+`Start`
 
 > `mpd &`
 
 > `ncmpcpp` (command)
 
-# Example:
+`Example`
 
 > [bspwm](https://github.com/driversline/bspwm/tree/main/dotfiles/player)
