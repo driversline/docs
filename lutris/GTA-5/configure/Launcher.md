@@ -1,5 +1,5 @@
 > Game info
- * `Name - Installer-GTA-5 (Your)`
+ * `Name - (Your)`
  * `Runner - Wine (Runs Windows games)`
 
 > Game options
