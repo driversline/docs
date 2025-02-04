@@ -1,9 +1,5 @@
-# create:
+> create: `.gitattributes`
 
-> `.gitattributes`
-
-# example:
-
-> `*.md linguist-detectable=true`
-
-> `*.sh linguist-detectable=false`
+> example:
+ * `*.md linguist-detectable=true`
+ * `*.sh linguist-detectable=false`
