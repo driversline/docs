@@ -139,3 +139,9 @@
         </tr>
     </tbody>
 </table>
+
+<style>
+    .tmuxTable th, .tmuxTable td {
+        text-align: center;
+    }
+</style>
