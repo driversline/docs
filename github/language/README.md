@@ -1,4 +1,5 @@
-> create: `.gitattributes`
+> create:
+ * `.gitattributes`
 
 > example:
  * `*.md linguist-detectable=true`
