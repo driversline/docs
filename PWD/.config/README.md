@@ -15,7 +15,7 @@
 |   M    |               |                     |
 |   N    | neofetch      | config.conf         |
 |   O    |               |                     |
-|   P    |               |                     |
+|   P    | polybar       | config.ini          |
 |   Q    |               |                     |
 |   R    |               |                     |
 |   S    |               |                     |
