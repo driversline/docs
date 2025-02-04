@@ -20,7 +20,7 @@
         <tr>
             <td>C</td>
             <td>fish</td>
-            <td>config.fis</td>
+            <td>config.fish</td>
         </tr>
         <tr>
             <td>D</td>
