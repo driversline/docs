@@ -31,8 +31,8 @@
         <table class="tmuxTable table-striped">
             <thead>
                 <tr>
-                    <th>Program</th>
-                    <th>Config</th>
+                    <th>Программа</th>
+                    <th>Конфиг</th>
                 </tr>
             </thead>
             <tbody>
@@ -64,6 +64,7 @@
                     <td></td>
                     <td></td>
                 </tr>
+                <!-- Добавьте пустые строки для других букв, если необходимо -->
             </tbody>
         </table>
     </div>
