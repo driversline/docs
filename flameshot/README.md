@@ -8,6 +8,3 @@
  * `full` - `Capture screenshot of all monitors at the same time`
  * `launcher` - `Open the capture launcher`
  * `config` - `Configure flameshot`
-
-> PWD:
- * `$HOME/.config/flameshot/flameshot.ini`
