@@ -1,21 +1,21 @@
 |`Letter`|   `Program`   |      `Config`       |
 |--------|---------------|---------------------|
-|   A    | alacritty     | alacritty.toml      |
+|   A    | alacritty     | alacritty / alacritty.toml      |
 |   B    |               |                     |
-|   C    | fish          | config.fish         |
+|   C    | fish          | fish / config.fish         |
 |   D    |               |                     |
 |   E    |               |                     |
-|   F    | flameshot     | flameshot.ini       |
-|   G    | gtk-3.0       | settings.ini        |
-|   H    | home-manager  | home.nix            |
+|   F    | flameshot     | flameshot / flameshot.ini       |
+|   G    | gtk3          | gtk-3.0 / settings.ini        |
+|   H    | home-manager  | home-manager / home.nix            |
 |   I    |               |                     |
 |   J    |               |                     |
-|   K    | kitty         | kitty.conf          |
+|   K    | kitty         | kitty / kitty.conf          |
 |   L    |               |                     |
 |   M    |               |                     |
-|   N    | neofetch      | config.conf         |
+|   N    | neofetch      | neofetch / config.conf         |
 |   O    |               |                     |
-|   P    | polybar       | config.ini          |
+|   P    | polybar       | polybar / config.ini          |
 |   Q    |               |                     |
 |   R    |               |                     |
 |   S    |               |                     |
