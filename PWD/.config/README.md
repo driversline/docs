@@ -1,4 +1,4 @@
-| Letter |    Program    |       Config        |
+| `Letter` |   ` Program`    |       `Config`        |
 |--------|---------------|---------------------|
 |   A    | alacritty     | alacritty.toml      |
 |   B    |               |                     |
