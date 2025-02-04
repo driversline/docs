@@ -1,6 +1,6 @@
 > Start:
  * `mpd &`
- * `ncmpcpp` (command)
+ * `ncmpcpp`
 
 > Example:
  * [bspwm](https://github.com/driversline/bspwm/tree/main/dotfiles/player)
