@@ -1,147 +1,28 @@
-<table class="tmuxTable table-striped">
-    <thead>
-        <tr>
-            <th>Letter</th>
-            <th>Program</th>
-            <th>Config</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>A</td>
-            <td>alacritty</td>
-            <td>alacritty.toml</td>
-        </tr>
-        <tr>
-            <td>B</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>C</td>
-            <td>fish</td>
-            <td>config.fish</td>
-        </tr>
-        <tr>
-            <td>D</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>E</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>F</td>
-            <td>flameshot</td>
-            <td>flameshot.ini</td>
-        </tr>
-        <tr>
-            <td>G</td>
-            <td>gtk-3.0</td>
-            <td>settings.ini</td>
-        </tr>
-        <tr>
-            <td>H</td>
-            <td>home-manager</td>
-            <td>home.nix</td>
-        </tr>
-        <tr>
-            <td>I</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>J</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>K</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>L</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>M</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>N</td>
-            <td>neofetch</td>
-            <td>config.conf</td>
-        </tr>
-        <tr>
-            <td>O</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>P</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Q</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>R</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>S</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>T</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>U</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>V</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>W</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>X</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Y</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Z</td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
-<style>
-    .tmuxTable th, .tmuxTable td {
-        text-align: center;
-    }
-</style>
+| Letter |    Program    |       Config       |
+|--------|---------------|---------------------|
+|   A    |   alacritty   |   alacritty.toml    |
+|   B    |               |                     |
+|   C    |      fish     |     config.fish     |
+|   D    |               |                     |
+|   E    |               |                     |
+|   F    |   flameshot   |    flameshot.ini     |
+|   G    |    gtk-3.0    |     settings.ini     |
+|   H    | home-manager   |      home.nix      |
+|   I    |               |                     |
+|   J    |               |                     |
+|   K    |               |                     |
+|   L    |               |                     |
+|   M    |               |                     |
+|   N    |   neofetch    |     config.conf     |
+|   O    |               |                     |
+|   P    |               |                     |
+|   Q    |               |                     |
+|   R    |               |                     |
+|   S    |               |                     |
+|   T    |               |                     |
+|   U    |               |                     |
+|   V    |               |                     |
+|   W    |               |                     |
+|   X    |               |                     |
+|   Y    |               |                     |
+|   Z    |               |                     |
