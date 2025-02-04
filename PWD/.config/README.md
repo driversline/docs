@@ -19,7 +19,7 @@
         </tr>
         <tr>
             <td>C</td>
-            <td>fishh</td>
+            <td>fish</td>
             <td>config.fis</td>
         </tr>
         <tr>
