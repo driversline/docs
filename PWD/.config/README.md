@@ -19,8 +19,8 @@
         </tr>
         <tr>
             <td>C</td>
-            <td>config.fish</td>
-            <td>fish</td>
+            <td>fishh</td>
+            <td>config.fis</td>
         </tr>
         <tr>
             <td>D</td>
@@ -39,13 +39,13 @@
         </tr>
         <tr>
             <td>G</td>
-            <td></td>
-            <td></td>
+            <td>gtk-3.0</td>
+            <td>settings.ini</td>
         </tr>
         <tr>
             <td>H</td>
-            <td></td>
-            <td></td>
+            <td>home-manager</td>
+            <td>home.nix</td>
         </tr>
         <tr>
             <td>I</td>
@@ -74,8 +74,8 @@
         </tr>
         <tr>
             <td>N</td>
-            <td></td>
-            <td></td>
+            <td>neofetch</td>
+            <td>config.conf</td>
         </tr>
         <tr>
             <td>O</td>
