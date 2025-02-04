@@ -1,1 +1,0 @@
-![neofetch](images/fetch.png)
