@@ -15,7 +15,7 @@
  * `config`
  * `*.mp3`
 
-# PWD
+# Pwd
  * `$HOME/.config/mpd/mpd.conf | $HOME/.config/mpd/database`
  * `$HOME/.config/ncmpcpp/config`
  * `$HOME/Music/*.mp3`
