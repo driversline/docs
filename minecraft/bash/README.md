@@ -1,1 +1,3 @@
-`sudo npm install -g minecraft-server-util`
+```bash
+sudo npm install -g minecraft-server-util
+```
