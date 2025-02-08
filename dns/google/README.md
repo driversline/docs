@@ -1,3 +1,3 @@
-> Primary: `8.8.8.8`
+> Primary: ```bash8.8.8.8```
 
-> Secondary: `8.8.4.4`
+> Secondary: ```bash8.8.4.4```
