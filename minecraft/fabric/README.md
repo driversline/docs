@@ -1,1 +1,3 @@
-`java -jar fabric-installer.jar client -mcversion !.!!.!`
+```bash
+java -jar fabric-installer.jar client -mcversion !.!!.!
+```
