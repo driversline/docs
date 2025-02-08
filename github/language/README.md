@@ -1,6 +1,6 @@
-> File:
+# File
  * `.gitattributes`
 
-> Ex.:
+# Example
  * `*.md linguist-detectable=true`
  * `*.sh linguist-detectable=false`
