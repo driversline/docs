@@ -1,6 +1,10 @@
 # Start
- * `mpd &`
- * `ncmpcpp`
+```bash
+mpd &
+```
+```bash
+ncmpcpp
+```
 
 # Example
  * [bspwm](https://github.com/driversline/bspwm/tree/main/dotfiles/player)
