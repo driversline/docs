@@ -1,6 +1,4 @@
-# Example
-
-[Here](https://github.com/driversline/bspwm/blob/main/dotfiles/flameshot.ini)
+# Example [Here](https://github.com/driversline/bspwm/blob/main/dotfiles/flameshot.ini)
 
 # Options
  * `-h, --help` - `Displays this help`
