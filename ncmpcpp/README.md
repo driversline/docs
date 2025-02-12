@@ -6,8 +6,7 @@ mpd &
 ncmpcpp
 ```
 
-# Пример
- * [bspwm](https://github.com/driversline/bspwm/tree/main/dotfiles/player)
+# Пример [здесь](https://github.com/driversline/player/)
 
 # Пути к конфигам
  * `$HOME/.config/mpd`
