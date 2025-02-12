@@ -1,17 +1,17 @@
-# Install
+# Установка
  * `WINEPREFIX=~/.wine32 WINEARCH=win32 winecfg`
  * `WINEPREFIX=~/.wine64 WINEARCH=win64 winecfg`
 
-# Check libs
+# Проверка библиотек
  * `WINEPREFIX=~/.wine32 winetricks list-installed`
  * `WINEPREFIX=~/.wine64 winetricks list-installed`
 
-# Libs GUI
+# Запуск winetricks (С GUI)
  * `winetricks`
  * `WINEPREFIX=~/.wine32 winetricks`
  * `WINEPREFIX=~/.wine64 winetricks`
 
-# Wine GUI
+# Запуск Wine (С GUI)
  * `winecfg`
  * `WINEPREFIX=~/.wine32 winecfg`
  * `WINEPREFIX=~/.wine64 winecfg`
