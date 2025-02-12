@@ -14,7 +14,7 @@
 |   L    |               |                     |
 |   M    |               |                     |
 |   N    | neofetch      | neofetch / config.conf         |
-|        | neovim        | nvim / init.lua | init.vim |
+|        | neovim        | nvim / init.lua \ init.vim |
 |   O    |               |                     |
 |   P    | polybar       | polybar / config.ini          |
 |   Q    |               |                     |
