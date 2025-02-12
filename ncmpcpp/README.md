@@ -1,4 +1,4 @@
-# Start
+# Запуск
 ```bash
 mpd &
 ```
@@ -6,15 +6,15 @@ mpd &
 ncmpcpp
 ```
 
-# Example
+# Пример
  * [bspwm](https://github.com/driversline/bspwm/tree/main/dotfiles/player)
 
-# Path
+# Пути к конфигам
  * `$HOME/.config/mpd`
  * `$HOME/.config/ncmpcpp`
  * `$HOME/Music (Your)`
    
-# Configs
+# Название конфигов
  *`mpd.conf` and `database`
  * `config`
  * `*.mp3`
