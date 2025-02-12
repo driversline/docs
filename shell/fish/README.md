@@ -1,4 +1,4 @@
-# Hide username
+# Скрытие юзернейма
 ```fish
 function fish_prompt
     set_color white --bold
