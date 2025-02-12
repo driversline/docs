@@ -1,6 +1,14 @@
-# File
- * `.gitattributes`
+# Файл
+```bash
+.gitattributes
+```
 
-# Example
- * `*.md linguist-detectable=true`
- * `*.sh linguist-detectable=false`
+# Пример
+
+```bash
+*.md linguist-detectable=true
+```
+
+```bash
+*.sh linguist-detectable=false
+```
