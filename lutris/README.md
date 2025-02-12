@@ -6,7 +6,7 @@
  * `WINEPREFIX=~/.wine32 winetricks list-installed`
  * `WINEPREFIX=~/.wine64 winetricks list-installed`
 
-# Запуск winetricks (С GUI)
+# Запуск Winetricks (С GUI)
  * `winetricks`
  * `WINEPREFIX=~/.wine32 winetricks`
  * `WINEPREFIX=~/.wine64 winetricks`
