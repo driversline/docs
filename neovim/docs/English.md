@@ -19,7 +19,7 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim \
 
 # Paths [here](https://github.com/driversline/docs/blob/main/pwd/.config/README.md)
 
-# Example 1 (Opening Folder Contents with Ctrl + Q)
+# Example 1 (Opening Folder Contents with Ctrl + q)
 
 ```bash
 require('packer').startup(function()
