@@ -11,7 +11,7 @@ ncmpcpp
 # Пути к конфигам
  * `$HOME/.config/mpd`
  * `$HOME/.config/ncmpcpp`
- * `$HOME/Music (Your)`
+ * `$HOME/Music (Твой)`
    
 # Название конфигов
  *`mpd.conf` и `database`
