@@ -1,1 +1,1 @@
-[Image](https://github.com/driversline/neofetch/tree/main)
+[Repo](https://github.com/driversline/neofetch/tree/main)
