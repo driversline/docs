@@ -2,7 +2,17 @@
 
 ```bash
 git clone --depth 1 https://github.com/wbthomason/packer.nvim \
-    ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+~/.local/share/nvim/site/pack/packer/start/packer.nvim
+```
+
+```bash
+ls ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+```
+
+# Установка новых плагинов
+
+```bash
+:PackerInstall
 ```
 
 # Вывести установленные плагины
@@ -11,7 +21,7 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim \
 :PackerStatus
 ```
 
-# Синхронизация (Скачивание плагинов)
+# Синхронизация (Обновление плагинов)
 
 ```bash
 :PackerSync
