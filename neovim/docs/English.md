@@ -32,9 +32,11 @@ ls ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 # Example 1 (Opening Folder Contents with Ctrl + q)
 
 ```bash
-require('packer').startup(function()
+require('packer').startup(function(use)
+    use 'wbthomason/packer.nvim'
     use 'kyazdani42/nvim-tree.lua'
 end)
+
 require'nvim-tree'.setup {
     update_cwd = true,
     update_focused_file = {
@@ -53,7 +55,8 @@ vim.api.nvim_set_keymap('n', '<C-q>', ':NvimTreeToggle<CR>', { noremap = true, s
 # Example 2 (Automatically Opening Folder Contents with a Delay of 100)
 
 ```bash
-require('packer').startup(function()
+require('packer').startup(function(use)
+    use 'wbthomason/packer.nvim'
     use 'kyazdani42/nvim-tree.lua'
 end)
 
