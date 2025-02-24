@@ -5,6 +5,16 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim \
     ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 ```
 
+```bash
+ls ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+```
+
+# Installation of new plugins
+
+```bash
+:PackerInstall
+```
+
 # Display Installed Plugins
 
 ```bash
