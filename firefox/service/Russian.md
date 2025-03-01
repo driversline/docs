@@ -18,4 +18,7 @@ systemctl --user status firefox.service
 
 # Поиск firefox (Позже один из путей нужно будет вставить в файл службы)
 
+
+```fish
 find /nix/store -name firefox
+```
