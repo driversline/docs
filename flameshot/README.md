@@ -1,4 +1,4 @@
-# Пример [здесь](https://github.com/driversline/bspwm/blob/main/dotfiles/flameshot.ini)
+# Пример [здесь](https://github.com/driversline/bspwm/blob/main/dotfiles/flameshot/flameshot.ini)
 
 # Опции
  * `-h, --help` - `Displays this help`
