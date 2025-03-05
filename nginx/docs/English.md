@@ -33,7 +33,7 @@ sudo nginx -s reload -c /etc/nginx/nginx.conf
 sudo nginx -s stop
 ```
 
-# Example
+# Example in html
 
 ```bash
 worker_processes 1;
