@@ -3,6 +3,7 @@
 ```fish
 sudo nix-collect-garbage --delete-old
 ```
+
 # Удаляет старые и неиспользуемые пакеты и сборки (сокращенная форма)
 
 ```fish
