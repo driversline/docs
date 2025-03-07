@@ -1,5 +1,5 @@
 # Пример [здесь](https://github.com/driversline/bspwm/blob/main/dotfiles/flameshot/flameshot.ini)
-
+.
 # Опции
  * `-h, --help` - `Displays this help`
  * `-v, --version` - `Displays version information`
