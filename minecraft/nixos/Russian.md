@@ -12,7 +12,7 @@ pkgs.minecraft
 find /nix/store -name libGL.so.1
 ```
 
-# Пример - [тут](https://github.com/driversline/nixos/blob/main/source/home-manager/apps/minecraft.nix)
+# Пример
 
 ```bash
 [ /home ] ~> sudo find /nix/store -name libGL.so.1
