@@ -1,7 +1,49 @@
-todo
+# Никс окружение
 
+## Установка
+
+```fish
+nix-env -iA < >
+```
+
+## Удаление
+
+```fish
+nix-env -e < >
+```
+
+## Список
+
+```fish
+nix-env -q < >
+```
+
+## Генерации
+
+```fish
 nix-env --list-generations
+```
+
+# Никс профиль
+
+## Установка
+
+```fish
+nix profile install nixpkgs#< >
+```
+
+## Удаление
+
+```fish
+nix profile remove < >
+```
+
+## Генерации
+
+```fish
 nix profile list
+```
+
 
 # Удаляет старые и неиспользуемые пакеты и сборки
 
