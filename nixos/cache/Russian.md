@@ -1,3 +1,8 @@
+todo
+
+nix-env --list-generations
+nix profile list
+
 # Удаляет старые и неиспользуемые пакеты и сборки
 
 ```fish
