@@ -15,8 +15,10 @@ security.sudo = {
 # Способ 2
 
 ```fish
-security.sudo.enable = true;
-security.sudo.configFile = ''
- Defaults !authenticate
-'';
+security.sudo = {
+    enable = true;
+    extraConfig = ''
+      Defaults !authenticate
+    '';
+  };
 ```
