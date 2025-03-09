@@ -20,5 +20,5 @@ security.sudo = {
     extraConfig = ''
       Defaults !authenticate
     '';
-  };
+};
 ```
