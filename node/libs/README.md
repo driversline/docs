@@ -1,9 +1,8 @@
-# Js / Css
-```bash
+```sh
 sudo npm install -g js-deobfuscator
 ```
-# Использование
-```bash
+
+```sh
 js-beautify !.js -o !.js
 js-beautify !.css -o !.css
 ```
