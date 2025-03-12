@@ -1,6 +1,6 @@
 # Method 1
 
-```fish
+```sh
 security.sudo = {
   enable = true;
   extraRules = [
@@ -14,7 +14,7 @@ security.sudo = {
 
 # Method 2
 
-```fish
+```sh
 security.sudo = {
     enable = true;
     extraConfig = ''
