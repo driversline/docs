@@ -1,10 +1,8 @@
-# Скрытие трех кнопок
-
-```bash
+```sh
 $HOME/.config/gtk-3.0/settings.ini
 ```
 
-```bash
+```sh
 [Settings]
 gtk-decoration-layout = :
 ```
