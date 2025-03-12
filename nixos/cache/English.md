@@ -2,25 +2,25 @@
 
 ## Installation
 
-```fish
+```sh
 nix-env -iA < >
 ```
 
 ## Removal
 
-```fish
+```sh
 nix-env -e < >
 ```
 
 ## List
 
-```fish
+```sh
 nix-env -q < >
 ```
 
 ##Generations
 
-```fish
+```sh
 nix-env --list-generations
 ```
 
@@ -28,19 +28,19 @@ nix-env --list-generations
 
 ## Installation
 
-```fish
+```sh
 nix profile install nixpkgs#< >
 ```
 
 ## Removal
 
-```fish
+```sh
 nix profile remove < >
 ```
 
 ## List
 
-```fish
+```sh
 nix profile list
 ```
 
@@ -48,34 +48,34 @@ nix profile list
 
 ## Removes old and unused packages and builds
 
-```fish
+```sh
 sudo nix-collect-garbage --delete-old
 ```
 
 ## Removes old and unused packages and builds (short form)
 
-```fish
+```sh
 sudo nix-collect-garbage -d
 ```
 
 ## Removes only unused packages and builds, without deleting old generations of profiles
 
-```fish
+```sh
 sudo nix-store --gc
 ```
 
 ## Shows the list of generations of the system profile
 
-```fish
+```sh
 sudo nix-env -p /nix/var/nix/profiles/system --list-generations
 ```
 
 ## Deletes old generations of the system profile
 
-```fish
+```sh
 sudo nix-env -p /nix/var/nix/profiles/system --delete-generations old
 ```
 
-# ВHelpful resources
+# Helpful resources
 
 https://blog.ielliott.io/how-to-delete-old-nixos-boot-configurations
