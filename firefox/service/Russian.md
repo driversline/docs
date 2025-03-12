@@ -1,24 +1,24 @@
 # Общий перезапуск
 
-```fish
+```sh
 systemctl --user daemon-reload
 ```
 
 # Запуск
 
-```fish
+```sh
 systemctl --user start firefox.service
 ```
 
 # Статус
 
-```fish
+```sh
 systemctl --user status firefox.service
 ```
 
 # Поиск firefox (Позже, один из путей нужно будет вставить в файл службы)
 
 
-```fish
+```sh
 find /nix/store -name firefox
 ```
