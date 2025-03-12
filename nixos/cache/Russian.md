@@ -2,25 +2,25 @@
 
 ## Установка
 
-```fish
+```sh
 nix-env -iA < >
 ```
 
 ## Удаление
 
-```fish
+```sh
 nix-env -e < >
 ```
 
 ## Список
 
-```fish
+```sh
 nix-env -q < >
 ```
 
 ## Генерации
 
-```fish
+```sh
 nix-env --list-generations
 ```
 
@@ -28,19 +28,19 @@ nix-env --list-generations
 
 ## Установка
 
-```fish
+```sh
 nix profile install nixpkgs#< >
 ```
 
 ## Удаление
 
-```fish
+```sh
 nix profile remove < >
 ```
 
 ## Генерации
 
-```fish
+```sh
 nix profile list
 ```
 
@@ -48,31 +48,31 @@ nix profile list
 
 ## Удаляет старые и неиспользуемые пакеты и сборки
 
-```fish
+```sh
 sudo nix-collect-garbage --delete-old
 ```
 
 ## Удаляет старые и неиспользуемые пакеты и сборки (сокращенная форма)
 
-```fish
+```sh
 sudo nix-collect-garbage -d
 ```
 
 ## Удаляет только неиспользуемые пакеты и сборки, без удаления старых поколений профилей
 
-```fish
+```sh
 sudo nix-store --gc
 ```
 
 ## Показывает список поколений системного профиля
 
-```fish
+```sh
 sudo nix-env -p /nix/var/nix/profiles/system --list-generations
 ```
 
 ## Удаляет старые поколения системного профиля
 
-```fish
+```sh
 sudo nix-env -p /nix/var/nix/profiles/system --delete-generations old
 ```
 
