@@ -1,29 +1,29 @@
 # Установка плагинов через packer (Для lua)
 
-```bash
+```sh
 git clone --depth 1 https://github.com/wbthomason/packer.nvim \
 ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 ```
 
-```bash
+```sh
 ls ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 ```
 
 # Установка новых плагинов
 
-```bash
+```sh
 :PackerInstall
 ```
 
 # Вывести установленные плагины
 
-```bash
+```sh
 :PackerStatus
 ```
 
 # Синхронизация (Обновление плагинов)
 
-```bash
+```sh
 :PackerSync
 ```
 
@@ -31,7 +31,7 @@ ls ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 
 # Пример 1 (Открытие содержимого папки на Ctrl + q)
 
-```bash
+```sh
 require('packer').startup(function(use)
     use 'wbthomason/packer.nvim'
     use 'kyazdani42/nvim-tree.lua'
@@ -54,7 +54,7 @@ vim.api.nvim_set_keymap('n', '<C-q>', ':NvimTreeToggle<CR>', { noremap = true, s
 
 # Пример 2 (Автоматическое открытие содержимого папки с задержкой 100)
 
-```bash
+```sh
 require('packer').startup(function(use)
     use 'wbthomason/packer.nvim'
     use 'kyazdani42/nvim-tree.lua'
