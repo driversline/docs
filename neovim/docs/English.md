@@ -1,29 +1,29 @@
 # Installing Plugins via Packer (For Lua)
 
-```bash
+```sh
 git clone --depth 1 https://github.com/wbthomason/packer.nvim \
     ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 ```
 
-```bash
+```sh
 ls ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 ```
 
 # Installation of new plugins
 
-```bash
+```sh
 :PackerInstall
 ```
 
 # Display Installed Plugins
 
-```bash
+```sh
 :PackerStatus
 ```
 
 # Synchronization (Downloading Plugins)
 
-```bash
+```sh
 :PackerSync
 ```
 
@@ -31,7 +31,7 @@ ls ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 
 # Example 1 (Opening Folder Contents with Ctrl + q)
 
-```bash
+```sh
 require('packer').startup(function(use)
     use 'wbthomason/packer.nvim'
     use 'kyazdani42/nvim-tree.lua'
@@ -54,7 +54,7 @@ vim.api.nvim_set_keymap('n', '<C-q>', ':NvimTreeToggle<CR>', { noremap = true, s
 
 # Example 2 (Automatically Opening Folder Contents with a Delay of 100)
 
-```bash
+```sh
 require('packer').startup(function(use)
     use 'wbthomason/packer.nvim'
     use 'kyazdani42/nvim-tree.lua'
