@@ -1,8 +1,10 @@
 # Launch
-```bash
+
+```sh
 mpd &
 ```
-```bash
+
+```sh
 ncmpcpp
 ```
 
