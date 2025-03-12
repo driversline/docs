@@ -1,5 +1,3 @@
-https://github.com/driversline/bspwm/blob/main/dotfiles/flameshot/flameshot.ini
-
 ```sh
 `-h, --help` - `Displays this help`
 `-v, --version` - `Displays version information`
@@ -12,3 +10,5 @@ https://github.com/driversline/bspwm/blob/main/dotfiles/flameshot/flameshot.ini
 `launcher` - `Open the capture launcher`
 `config` - `Configure flameshot`
 ```
+
+https://github.com/driversline/bspwm/blob/main/dotfiles/flameshot/flameshot.ini
