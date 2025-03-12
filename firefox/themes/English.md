@@ -2,14 +2,14 @@
 
 ## Path
 
-```bash
+```sh
 $HOME/.mozilla/firefox/Your_hash.default/chrome/userChrome.css
 ```
 
 # Firefox
 
 ## Settings
-```bash
+```sh
 about:config
 toolkit.legacyUserProfileCustomizations.stylesheets - `true`
 ```
