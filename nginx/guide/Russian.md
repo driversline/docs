@@ -1,12 +1,12 @@
 # Запуск
 
-```bash
+```sh
 sudo nginx -c /etc/nginx/nginx.conf
 ```
 
 # Проверка конфига
 
-```bash
+```sh
 sudo nginx -t -c /etc/nginx/nginx.conf
 ```
 
@@ -14,7 +14,7 @@ sudo nginx -t -c /etc/nginx/nginx.conf
 
 <summary>Ожидаемый вывод</summary>
 
-```bash
+```sh
 nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
 nginx: configuration file /etc/nginx/nginx.conf test is successful
 ```
@@ -23,19 +23,19 @@ nginx: configuration file /etc/nginx/nginx.conf test is successful
 
 # Перезапуск
 
-```bash
+```sh
 sudo nginx -s reload -c /etc/nginx/nginx.conf
 ```
 
 # Остановка сервера
 
-```bash
+```sh
 sudo nginx -s stop
 ```
 
 # Пример на html
 
-```bash
+```sh
 worker_processes 1;
 
 events {
@@ -55,7 +55,7 @@ http {
 }
 ```
 
-```bash
+```sh
 <!DOCTYPE html>
 <html lang="ru">
 <head>
