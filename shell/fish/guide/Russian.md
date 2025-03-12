@@ -1,5 +1,6 @@
 # Скрытие юзернейма
-```fish
+
+```sh
 function fish_prompt
     set_color white --bold
     set current_path (pwd)
