@@ -1,23 +1,23 @@
 # General restart
 
-```fish
+```sh
 systemctl --user daemon-reload
 ```
 
 # Start
 
-```fish
+```sh
 systemctl --user start firefox.service
 ```
 
 # Status
 
-```fish
+```sh
 systemctl --user status firefox.service
 ```
 
 # Search for firefox (Later, one of the paths will need to be inserted into the service file)
 
-```fish
+```sh
 find /nix/store -name firefox
 ```
