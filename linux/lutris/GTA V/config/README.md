@@ -1,11 +1,8 @@
-# Info
- * `Name - (Your)`
- * `Runner - Wine (Runs Windows games)`
-
-# Game options
- * `Executable - /home/Your_user/.wine/drive_c/Program Files/Rockstar Games/Grand Theft Auto V/GTAVLauncher.exe`
- * `Working directory - /home/Your_user/.wine/drive_c/Program Files/Rockstar Games/Grand Theft Auto V`
- * `Prefix architecrute - Auto (default)`
-
-# Runner options
- * `WIne version - wine-ge-X-XX-x86_64 (default)`
+Value                | Game                                   | Launcher
+---------------------|----------------------------------------|----------------------------------------
+Info                 | Your                                   | Your
+Runner               | Wine (Run Win. games)                 | Wine (Run Win. games)
+Executable           | /home/user/.wine/drive_c/Program Files/Rockstar Games/Grand Theft Auto V/GTAVLauncher.exe | /home/user/Downloads/Rockstar-Games-Launcher.exe
+Working directory     | /home/user/.wine/drive_c/Program Files/Rockstar Games/Grand Theft Auto V | /home/user/Games
+Prefix architecture   | Auto (default)                        | 64-bit
+Wine version         | wine-ge-X-XX-x86_64 (default)         | wine-ge-X-XX-x86_64 (default)
