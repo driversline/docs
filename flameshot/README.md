@@ -10,5 +10,3 @@
 `launcher` - `Open the capture launcher`
 `config` - `Configure flameshot`
 ```
-
-https://github.com/driversline/bspwm/blob/main/dotfiles/flameshot/flameshot.ini
