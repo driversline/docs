@@ -8,8 +8,6 @@ mpd &
 ncmpcpp
 ```
 
-# Пример [здесь](https://github.com/driversline/player/)
-
 # Пути к конфигам
  * `$HOME/.config/mpd`
  * `$HOME/.config/ncmpcpp`
