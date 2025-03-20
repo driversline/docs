@@ -14,7 +14,7 @@ ncmpcpp
  * `$HOME/Music (Твой)`
    
 # Название конфигов
- *`mpd.conf` и `database`
+ * `mpd.conf` и `database`
  * `config`
  * `*.mp3`
 
