@@ -1,15 +1,14 @@
-# Запуск
+# Launch
 ```sh
 sudo nginx -c /etc/nginx/nginx.conf
 ```
-# Проверка конфига
-
+# Config check
 ```sh
 sudo nginx -t -c /etc/nginx/nginx.conf
 ```
 <details>
   
-<summary>Ожидаемый вывод</summary>
+<summary>Expected output</summary>
   
 ```sh
 nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
@@ -17,15 +16,15 @@ nginx: configuration file /etc/nginx/nginx.conf test is successful
 ```
 </details>
 
-# Перезапуск
+# Restart
 ```sh
 sudo nginx -s reload -c /etc/nginx/nginx.conf
 ```
-# Остановка сервера
+# Server shutdown
 ```sh
 sudo nginx -s stop
 ```
-# Пример на html
+# Example in html
 ```sh
 worker_processes 1;
 
