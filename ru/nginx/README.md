@@ -3,7 +3,6 @@
 sudo nginx -c /etc/nginx/nginx.conf
 ```
 # Проверка конфига
-
 ```sh
 sudo nginx -t -c /etc/nginx/nginx.conf
 ```
