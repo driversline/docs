@@ -5,7 +5,7 @@
   
 - Информация, собранная методом научного тыка  
 
-### 📝 Содержание
+### 📝 Содержание:
 - `Firefox` - установка кастомных тем 
 
 - `Lutris` - полезные команды 
@@ -22,7 +22,7 @@
 
 - Information gathered through trial and error
 
-### 📝 Contents
+### 📝 Contents:
 - `Firefox` - custom themes installation
 
 - `Lutris` - useful commands
